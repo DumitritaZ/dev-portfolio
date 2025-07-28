@@ -50,3 +50,16 @@ This is a full-stack web application developed as part of a university project f
    ```bash
    git clone https://github.com/DumitritaZ/dev-portfolio.git
    cd dev-portfolio
+
+2. Build and run the containers:
+
+bash
+
+docker-compose up --build
+
+3. Access the website:
+
+🌐 Open your browser and go to: http://localhost:8080
+
+🛠 PhpMyAdmin available at: http://localhost:8081
+(use root / toor to log in)
